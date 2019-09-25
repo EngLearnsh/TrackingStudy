@@ -15,3 +15,5 @@ pip install -r requirements.txt
 ## Credits
 - Thanks to [William Yueming Wang](https://github.com/WilliamWangyueming) for providing initial ideas about what to do in Hackathon 2019, and designing working progress on `TrackingStudy`
 - Thanks to [antoinelame](https://github.com/antoinelame) for providing [GazeTracking](https://github.com/antoinelame/GazeTracking)
+
+Master Wang Never Die
