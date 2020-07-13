@@ -1,8 +1,11 @@
 # TrackingStudy
-Eye-tracking technology is used to assist the completion of "fluctuating speed reading", which greatly improves the reading efficiency.
-The user's understanding of the word can be distinguished by calculating how long the eye stays there.
-Thus brings the precise auxiliary effect.
+Eyes-tracking technology is used to assist the completion of "fluctuating speed reading", which greatly improves the reading efficiency.
+
+The user's understanding of the word can be distinguished by calculating how long the eye stays there. Thus brings the precise auxiliary effect.
+
 Remenber words easier by moving your eyes
+
+**Currently, the project is still in DEMO stage, you won't expect any substantive content until there's a feasibility development plan**
 
 ## What is it
 - Basic eye tracking by calling webcam inside laptop or USB webcam
@@ -19,5 +22,3 @@ pip install -r requirements.txt
 ## Credits
 - Thanks to Master Wang [William Yueming Wang](https://github.com/WilliamWangyueming) for providing initial ideas about what to do in Hackathon 2019, and designing working progress on `TrackingStudy`
 - Thanks to [antoinelame](https://github.com/antoinelame) for providing [GazeTracking](https://github.com/antoinelame/GazeTracking)
-
-Master Wang Never Die
